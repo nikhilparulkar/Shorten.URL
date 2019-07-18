@@ -28,3 +28,9 @@ Endpoint exponsed by project are as follows :
  Also Include in project in Unit test project to test internal services.
  
  Also Included a Postman script to test both end point.
+ 
+ This Service is also Hosted on azure and endpoint are:
+ 
+ GET :  https://shortenurl20190718121531.azurewebsites.net/{URL}
+ 
+ POST : https://shortenurl20190718121531.azurewebsites.net/shorten (pass value as form parameter)
