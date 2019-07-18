@@ -1,0 +1,70 @@
+{
+	"info": {
+		"_postman_id": "273172fc-ed2a-49ba-bd45-c376d2a34be5",
+		"name": "ShortenURL",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "https://shortenurl20190718121531.azurewebsites.net/shorten",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/x-www-form-urlencoded",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "value",
+							"value": "https://www.abc.net.au/radio/programs/the-signal/human-extinction/11319420",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://shortenurl20190718121531.azurewebsites.net/shorten",
+					"protocol": "https",
+					"host": [
+						"shortenurl20190718121531",
+						"azurewebsites",
+						"net"
+					],
+					"path": [
+						"shorten"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://shortenurl20190718121531.azurewebsites.net/Mw==",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "https://shortenurl20190718121531.azurewebsites.net/Mw==",
+					"protocol": "https",
+					"host": [
+						"shortenurl20190718121531",
+						"azurewebsites",
+						"net"
+					],
+					"path": [
+						"Mw=="
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
