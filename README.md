@@ -33,9 +33,9 @@ GET : /{url} : This endpoint if invoked with ShortURL as received in above respo
       example :(GET)https://shortenurl20190718121531.azurewebsites.net/Mw== will redirect it to
        https://www.abc.net.au/radio/programs/the-signal/human-extinction/11319420       
  
- Also Include in project in Unit test project to test internal services.
+ Also Include in project is a Unit test project to test internal services.
  
- Also Included a Postman script to test both end point.Import these script inlates version of Postman.
+ Also Included a Postman script to test both end point.Import these script in latest version of Postman.
  
  This Service is also Hosted on azure and endpoint are:
  
