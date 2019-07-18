@@ -7,27 +7,28 @@ This project is build on .Net Code 2.1.
 
 Endpoint exponsed by project are as follows :
 
-1. GET : /{url} : This endpoint queries the database for any short URL. 
-            Response : Http (302) 
-             
-            example :(GET)https://shortenurl20190718121531.azurewebsites.net/Mw== will redirect it to
-             https://www.abc.net.au/radio/programs/the-signal/human-extinction/11319420
-
-2. POST : /shorten : This endpoint creates a short url for a URL passed as  Form parameter.
+Endpoint 1. POST : /shorten : This endpoint creates a short url for a URL passed as Form parameter.
       Body:  "Content-Type": "application/x-www-form-urlencoded"
           {
             "value": "<URL to be shortened>"
           }
-      Response http(200) : 
+       Success  :Response http(200) : 
           {
             "shortURL": "https://shortenurl20190718121531.azurewebsites.net/MQ=="
           }
-      Response http(500) : Internal Service Error
-          
+       Fail : Response http(500) : Internal Service Error
+
+Endpoint 2. GET : /{url} : This endpoint if invoked with ShortURL as received in above response (Endpoint 1),then redirects to full                                     inflated Original URL 
+            Success Response : Http (302) 
+            Fail  : Response : HTTP (500)
+           
+             
+            example :(GET)https://shortenurl20190718121531.azurewebsites.net/Mw== will redirect it to
+             https://www.abc.net.au/radio/programs/the-signal/human-extinction/11319420       
  
  Also Include in project in Unit test project to test internal services.
  
- Also Included a Postman script to test both end point.
+ Also Included a Postman script to test both end point.Import these script inlates version of Postman.
  
  This Service is also Hosted on azure and endpoint are:
  
