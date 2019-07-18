@@ -1,0 +1,17 @@
+C:\Users\nikhil.parulkar\Desktop\Shorten.URL\NUnitTestProject\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\nikhil.parulkar\Desktop\Shorten.URL\NUnitTestProject\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\nikhil.parulkar\Desktop\Shorten.URL\NUnitTestProject\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\nikhil.parulkar\Desktop\Shorten.URL\NUnitTestProject\bin\Debug\netcoreapp2.2\NUnitTestProject.deps.json
+C:\Users\nikhil.parulkar\Desktop\Shorten.URL\NUnitTestProject\bin\Debug\netcoreapp2.2\NUnitTestProject.runtimeconfig.json
+C:\Users\nikhil.parulkar\Desktop\Shorten.URL\NUnitTestProject\bin\Debug\netcoreapp2.2\NUnitTestProject.runtimeconfig.dev.json
+C:\Users\nikhil.parulkar\Desktop\Shorten.URL\NUnitTestProject\bin\Debug\netcoreapp2.2\NUnitTestProject.dll
+C:\Users\nikhil.parulkar\Desktop\Shorten.URL\NUnitTestProject\obj\Debug\netcoreapp2.2\NUnitTestProject.csprojAssemblyReference.cache
+C:\Users\nikhil.parulkar\Desktop\Shorten.URL\NUnitTestProject\obj\Debug\netcoreapp2.2\NUnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\nikhil.parulkar\Desktop\Shorten.URL\NUnitTestProject\obj\Debug\netcoreapp2.2\NUnitTestProject.AssemblyInfoInputs.cache
+C:\Users\nikhil.parulkar\Desktop\Shorten.URL\NUnitTestProject\obj\Debug\netcoreapp2.2\NUnitTestProject.AssemblyInfo.cs
+C:\Users\nikhil.parulkar\Desktop\Shorten.URL\NUnitTestProject\bin\Debug\netcoreapp2.2\NUnitTestProject.pdb
+C:\Users\nikhil.parulkar\Desktop\Shorten.URL\NUnitTestProject\bin\Debug\netcoreapp2.2\Shorten.URL.dll
+C:\Users\nikhil.parulkar\Desktop\Shorten.URL\NUnitTestProject\bin\Debug\netcoreapp2.2\Shorten.URL.pdb
+C:\Users\nikhil.parulkar\Desktop\Shorten.URL\NUnitTestProject\obj\Debug\netcoreapp2.2\NUnitTestProject.csproj.CopyComplete
+C:\Users\nikhil.parulkar\Desktop\Shorten.URL\NUnitTestProject\obj\Debug\netcoreapp2.2\NUnitTestProject.dll
+C:\Users\nikhil.parulkar\Desktop\Shorten.URL\NUnitTestProject\obj\Debug\netcoreapp2.2\NUnitTestProject.pdb
